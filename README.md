@@ -19,7 +19,7 @@ Run the project
 [Link](https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-windows/#connect-to-mongodb  "Link")
 
 #### Backend
-To run the demo project locally, just open the solution and set the backend  project as startup then run the project
+To run the demo project locally, make sure .net Core 2.2 is installed, next open the solution and run backend project
 
 #### Frontend UI
 Run the following commands to run the project:
