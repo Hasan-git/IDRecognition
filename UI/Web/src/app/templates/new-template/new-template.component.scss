@@ -1,0 +1,49 @@
+image-cropper {
+    max-height: 31vh;
+}
+
+.container_ {
+    height: 80px;
+    width: 128px;
+
+    img {
+        object-fit: scale-down;
+        object-position: center;
+        display: block;
+        height: 100%;
+        width: 100%;
+    }
+}
+
+
+
+
+.content {
+
+    form {
+        width: 100%;
+        max-width: 800px !important;
+    }
+
+    .form-errors-model {
+        flex: 1;
+    }
+
+    table {
+        width: 100%;
+        text-align: left;
+
+        th {
+            padding: 5px;
+            background-color: #f4f4f4;
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+        }
+
+
+        td {
+            padding: 4px 16px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+    }
+}
